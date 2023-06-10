@@ -1,0 +1,28 @@
+h1 {
+    font-weight: bolder;
+    background-color: lightskyblue;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+li {
+    font-size: medium;
+    font-weight: bold;
+}
+.las {
+    background-color: lightsalmon;
+}
+.chi {
+    background-color: rgb(250, 103, 45);
+}
+.sau{
+    background-color: red;
+}
+p {
+    background-color: lightskyblue;
+    text-align: center;
+}
